@@ -1,3 +1,4 @@
+import Accordion from './accordion';
 import './App.css';
 import Count from './class/count';
 import Example from './class/example';
@@ -10,7 +11,8 @@ export default function App() {
    
       //<Js fullName='Lucas Maria Jose' age='20' />
       // <Fetch />
-      <Count />
+      //<Count />
+      <Accordion />
   );
 }
 
