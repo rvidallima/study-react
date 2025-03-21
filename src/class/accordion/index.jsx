@@ -1,6 +1,6 @@
 import './style.css'
-import Arrowdown from '../assets/images/icons/arrow-down.svg' 
-import Arrowup from '../assets/images/icons/arrow-up.svg'
+import Arrowdown from '../../assets/images/icons/arrow-down.svg' 
+import Arrowup from '../../assets/images/icons/arrow-up.svg'
 
 import { useEffect, useState } from "react";
 

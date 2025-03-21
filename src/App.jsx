@@ -1,9 +1,11 @@
-import Accordion from './accordion';
+import Accordion from './class/accordion';
 import './App.css';
+import BuscaCep from './class/buscacep';
 import Count from './class/count';
 import Example from './class/example';
 import Js from './class/js'
 import Fetch from './fetch';
+import BuscarPokemon from './class/buscarpokemon';
 
 export default function App() {
 
@@ -12,7 +14,9 @@ export default function App() {
       //<Js fullName='Lucas Maria Jose' age='20' />
       // <Fetch />
       //<Count />
-      <Accordion />
+      //<Accordion />
+      //<BuscaCep />
+      <BuscarPokemon />
   );
 }
 
