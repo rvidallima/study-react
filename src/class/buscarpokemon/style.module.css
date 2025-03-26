@@ -1,6 +1,10 @@
 .container {
-    display: flex;
+    /*display: flex;
     justify-content: center;
     align-items: center;
-    background-color: azure;
+    background-color: azure;*/
+}
+
+p {
+    color: red;
 }
