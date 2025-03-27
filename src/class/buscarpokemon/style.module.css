@@ -8,3 +8,10 @@
 p {
     color: red;
 }
+
+.divfigura {
+    display: flex;
+    justify-content: space-between;
+    border: 1px black outset;
+    align-items: center;
+}
